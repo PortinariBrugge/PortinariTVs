@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TvContents>
+<SchemaVersion MajorVerNo="2" MinorVerNo="0"/>
+<ChannelMap>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1005" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="1" name="vtm HD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="298000" system="west" serviceID="1103" ONID="1" TSID="11" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2" name="VRT 1" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="912" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="3" name="Play" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="298000" system="west" serviceID="1104" ONID="1" TSID="11" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="4" name="VRT CANVAS" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1001" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="5" name="VTM 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="913" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="6" name="Play Fictie" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1010" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="7" name="VTM 3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1608" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="8" name="TV Oost StNik." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="217" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="9" name="VTM 4" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="201" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="10" name="Trends Z" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="354000" system="west" serviceID="1208" ONID="1" TSID="12" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="11" name="Play Actie" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="298000" system="west" serviceID="1105" ONID="1" TSID="11" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="12" name="Ketnet" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="807" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="13" name="STAR Channel" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="914" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="14" name="Play Crime" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="354000" system="west" serviceID="1201" ONID="1" TSID="12" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="15" name="Discovery Vl HD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="354000" system="west" serviceID="1202" ONID="1" TSID="12" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="16" name="Nat Geo HD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1306" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="17" name="TLC" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="908" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="18" name="Comedy Central" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1301" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="19" name="MTV VL" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2311" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="20" name="njam!" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="915" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="21" name="Play Reality" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2304" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="22" name="PlattelandsTv" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1004" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="23" name="VTM GOLD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="501" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="24" name="History.TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="711" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="25" name="BBC Belgium" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1305" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="27" name="VTM XMAS" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="704" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="29" name="Disney VL" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1607" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="30" name="Studio 100 TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1304" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="31" name="Nickelodeon" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1303" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="32" name="Nick Jr." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2310" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="33" name="Baby TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2308" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="34" name="Cartoon Network" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="110" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="35" name="Nickelodeon Ukraine" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2306" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="36" name="Disney Junior" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1302" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="37" name="MENT55" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1611" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="38" name="MENTpop" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1011" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="39" name="Q-music" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="846" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="40" name="ID" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1606" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="41" name="HGTV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1309" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="42" name="Vlaams Parlement TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1310" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="45" name="DOBBIT TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="202" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="50" name="Stingray Classica" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="354000" system="west" serviceID="1209" ONID="1" TSID="12" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="51" name="Eclips TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="210" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="52" name="OUT TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="701" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="100" name="NPO 1" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="702" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="101" name="NPO 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="703" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="102" name="NPO 3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="905" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="120" name="BBC 1" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="906" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="121" name="BBC 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="338000" system="west" serviceID="1811" ONID="1" TSID="18" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="130" name="RTBF La Une" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="338000" system="west" serviceID="1812" ONID="1" TSID="18" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="131" name="RTBF Tipik" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="338000" system="west" serviceID="1813" ONID="1" TSID="18" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="132" name="RTL tvi" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="338000" system="west" serviceID="1814" ONID="1" TSID="18" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="133" name="RTL club" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1308" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="134" name="RTL plug" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1307" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="135" name="AB3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1612" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="137" name="R. Contact Vision" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="338000" system="west" serviceID="1801" ONID="1" TSID="18" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="138" name="RTBF La Trois" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="338000" system="west" serviceID="1803" ONID="1" TSID="18" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="139" name="RTL district" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="354000" system="west" serviceID="1204" ONID="1" TSID="12" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="140" name="LN24" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="504" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="141" name="CSTAR" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="502" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="142" name="TMC" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2303" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="143" name="TFX" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="354000" system="west" serviceID="1206" ONID="1" TSID="12" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="150" name="TF1 HD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2313" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="151" name="France 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2314" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="152" name="France 3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1415" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="153" name="France 4" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1416" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="154" name="France 5" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="708" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="155" name="Arte Belgique" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="518" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="158" name="TV5Monde" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2305" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="170" name="ARD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2302" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="171" name="ZDF" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="205" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="175" name="RTL Tele" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1622" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="176" name="VOX" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1405" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="177" name="n-tv" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="346000" system="west" serviceID="2315" ONID="1" TSID="23" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="180" name="Rai Uno" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="709" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="181" name="TVE" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="208" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="184" name="TRT" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="715" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="187" name="Mediaset Italia" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="503" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="188" name="Israel+" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1601" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="191" name="2M Monde" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1404" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="192" name="Al Maghreb TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1409" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="209" name="Horse &amp; Country" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1012" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="210" name="Eurosport HD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="204" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="211" name="Eurosport 2 HD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="112" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="218" name="Sport 10" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="113" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="219" name="W Sport" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1406" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="314" name="ShortsTV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="845" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="351" name="Disc ID" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="354000" system="west" serviceID="1242" ONID="1" TSID="12" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="354" name="Animal Planet" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="707" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="401" name="CNN" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="706" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="402" name="CNBC Europe" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="330000" system="west" serviceID="710" ONID="1" TSID="7" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="403" name="BBC News" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1605" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="404" name="Al Jazeera Eng." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1604" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="405" name="Euronews" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1408" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="407" name="Bloomberg" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1418" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="411" name="CGTN" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="106" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="444" name="Yelo TV-channel" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="212" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="445" name="AVS Eeklo" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="506" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="446" name="AVS Gent" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="507" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="447" name="AVS Oudenaar." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1609" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="448" name="Focus" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="213" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="449" name="TV Oost Dend." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="211" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="450" name="ATV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1616" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="451" name="BRUZZ" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1617" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="452" name="notélé" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1610" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="453" name="Ring-TV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="214" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="454" name="ROB" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="215" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="455" name="RTV Geel" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="266000" system="west" serviceID="1613" ONID="1" TSID="16" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="456" name="RTV Herentho." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="509" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="457" name="RTV Mechelen" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="510" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="458" name="RTV Turnhout" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="508" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="459" name="TV Limburg" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="362000" system="west" serviceID="511" ONID="1" TSID="5" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="460" name="WTV" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1433" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1881" name="NPO 3FM" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1431" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1882" name="NPO Radio 1" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1432" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1883" name="NPO Radio 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1434" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1884" name="NPO Klassiek" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1422" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1886" name="France Culture" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1423" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1887" name="France Inter" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1421" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1888" name="France Musique" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1427" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1890" name="BBC Radio 1" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1428" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1891" name="BBC Radio 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1429" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1892" name="BBC Radio 3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1430" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1893" name="BBC World Service" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1436" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1895" name="WDR 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1437" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1896" name="WDR 3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1438" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1897" name="WDR 4" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1439" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1898" name="WDR 5" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1435" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1899" name="1LIVE" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="921" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1900" name="Radio 1" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="922" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1901" name="Radio 2 Vl. Br." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="923" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1902" name="MNM" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="924" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1903" name="StuBru" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="925" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1904" name="Klara" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="926" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1905" name="Klara Continuo" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="927" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1906" name="MNM Hits" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="928" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1907" name="VRT NWS" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="231" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1908" name="VRT Radio Bene" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="929" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1909" name="De Tijdloze" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1021" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1910" name="Q-music radio" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="306000" system="west" serviceID="1022" ONID="1" TSID="10" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1911" name="JOE fm" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="402000" system="west" serviceID="1321" ONID="1" TSID="13" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1912" name="Radio Maria" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="122" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1913" name="TOPradio" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="930" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1914" name="Radio 2 Antw." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="931" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1915" name="Radio 2 Limb." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="932" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1916" name="Radio 2 O. Vl." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="933" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1917" name="Radio 2 W. Vl." blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="941" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1918" name="Nostalgie" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="123" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1919" name="ROXX" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="934" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1920" name="RTBF La Première" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="935" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1921" name="RTBF VivaCité" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="936" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1922" name="RTBF Musiq3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="937" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1923" name="RTBF Tipik Radio" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="938" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1924" name="RTBF Classic 21" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="228" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1925" name="RTBF Mix" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="939" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1926" name="Bel RTL" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1444" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1927" name="Contact" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1445" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1928" name="Mint" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1426" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1929" name="RFI" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="125" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1930" name="Family Radio" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="221" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1931" name="Willy" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="222" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1932" name="Q Maximum Hits" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="223" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1933" name="Q-Foute Radio" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="943" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1935" name="ContactMax" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="224" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1936" name="JOE Gold" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="225" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1937" name="Joe 80s &amp; 90s" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="226" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1938" name="Willy Class X" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="227" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1939" name="Joe Easy" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="942" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1940" name="Nostalgie+" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="239" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1941" name="Be One" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1440" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1942" name="ZEN" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="314000" system="west" serviceID="940" ONID="1" TSID="9" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1943" name="NRJ" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="238" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1945" name="Radio Judaïca" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="274000" system="west" serviceID="1446" ONID="1" TSID="14" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1946" name="BRF 1" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="386000" system="west" serviceID="229" ONID="1" TSID="2" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1947" name="Stadsradio Vlaanderen" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="394000" system="west" serviceID="127" ONID="1" TSID="1" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1949" name="One World Radio" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="321" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1990" name="Total Hits - UK" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="324" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1991" name="Stingray Specials" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="328" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1992" name="Dancefloor Fillers" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="327" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1993" name="70s" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="336" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1994" name="Chillout" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="332" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1995" name="Reggae Vibra" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="325" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1996" name="Headbangers" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="322" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1997" name="Rock Anthems" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="351" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1998" name="Freedom" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="378000" system="west" serviceID="334" ONID="1" TSID="3" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="Radio"></Broadcast>
+<Setup presetnumber="1999" name="Jazz Classics" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="800" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2000" name="Home Service" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="852" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2001" name="Home Service HD" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="853" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2002" name="Home Service HD 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="856" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2003" name="Home Service HD 3" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="855" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2004" name="Home Service HD Pre" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="851" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2005" name="Home Service SD 2" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="854" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2006" name="Home Service SD Pre" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+<Channel>
+<Broadcast medium="dvbc" frequency="322000" system="west" serviceID="850" ONID="1" TSID="8" modulation="256" symbolrate="6875000" bandwidth="Auto" servicetype="TV"></Broadcast>
+<Setup presetnumber="2007" name="Home Service WEBPVR" blank="0" skip="0" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Channel>
+</ChannelMap>
+<ApplicationMap>
+<Application>
+<Setup name="USB" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Application>
+<Application>
+<Setup name="DirectShare" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Application>
+<Application>
+<Setup name="SmartTV" FreePKG="1" PayPKG1="1" PayPKG2="1"></Setup>
+</Application>
+</ApplicationMap>
+</TvContents>

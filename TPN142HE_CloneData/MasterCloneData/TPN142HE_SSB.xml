@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HotelModeSettings>
+<SwitchOnSrc> TV </SwitchOnSrc>
+<SwitchOnChn> 1 </SwitchOnChn>
+<SwitchOnVol> 10 </SwitchOnVol>
+<MaximumVol> 50 </MaximumVol>
+<SwitchOnFeature> None </SwitchOnFeature>
+<SwitchOnPicFmt> Auto fill </SwitchOnPicFmt>
+<PowerOn> Standby </PowerOn>
+<LowPowerStandby> Green </LowPowerStandby>
+<SmartPower> 1 </SmartPower>
+<RebootEveryDay> 1 </RebootEveryDay>
+<DisplayWelcomeMsg> 0 </DisplayWelcomeMsg>
+<WelcomeMsgLine1>                      </WelcomeMsgLine1>
+<WelcomeMsgLine2>                      </WelcomeMsgLine2>
+<WelcomeMsgTimeOut> 20 </WelcomeMsgTimeOut>
+<DisplayLogo> 0 </DisplayLogo>
+<SmartInfo> Off </SmartInfo>
+<SmartInfoIconLabel>  </SmartInfoIconLabel>
+<KBLock> Off </KBLock>
+<RCLock> 0 </RCLock>
+<OSDDisplay> 1 </OSDDisplay>
+<HighSecurity> 0 </HighSecurity>
+<AutoScart> On </AutoScart>
+<USBBreakIn> 0 </USBBreakIn>
+<EnableUSB> 1 </EnableUSB>
+<SXPBaudRate> 38400 </SXPBaudRate>
+<EnableTeletext> 1 </EnableTeletext>
+<EnableMHEG> 1 </EnableMHEG>
+<EnableEPG> 1 </EnableEPG>
+<EnableSubtitles> On </EnableSubtitles>
+<SubtitleOnStartup> Off </SubtitleOnStartup>
+<BlueMute> 0 </BlueMute>
+<EnableCISlot> 0 </EnableCISlot>
+<ScrambledProgramOSD> 1 </ScrambledProgramOSD>
+<EasylinkBreakIn> 0 </EasylinkBreakIn>
+<EasylinkControl> 0 </EasylinkControl>
+<DigitTimeout> 2.0 </DigitTimeout>
+<SelectableAV> 255 </SelectableAV>
+<WatchTV> TV </WatchTV>
+<ExternalClk> 0 </ExternalClk>
+<ClkBrighDimlight> 0 </ClkBrighDimlight>
+<ClkBrighIntenselight> 0 </ClkBrighIntenselight>
+<ClkLightSensor> 0 </ClkLightSensor>
+<TimeDownload> Automatic-RF </TimeDownload>
+<TimeSetting> 16:14 </TimeSetting>
+<ClkDownloadProgram> 1 </ClkDownloadProgram>
+<ClkDownloadCountry> Belgium </ClkDownloadCountry>
+<ClkTimeZone>  </ClkTimeZone>
+<DaylightSaving> 1 </DaylightSaving>
+<ClkTimeOffset> 0.0 </ClkTimeOffset>
+<ReferenceDate> 01/01/1970 </ReferenceDate>
+<ReferenceTime> 00:10 </ReferenceTime>
+<MainSpkrEnable> 1 </MainSpkrEnable>
+<IndMainSpkrMute> 0 </IndMainSpkrMute>
+<DefMainSpkrVol> 25 </DefMainSpkrVol>
+<AutoChnUpdate> 0 </AutoChnUpdate>
+<AutoSwUpdate> 1 </AutoSwUpdate>
+<SkipScrambled> 0 </SkipScrambled>
+<MultiRC> Off </MultiRC>
+<MyChoice> Off </MyChoice>
+<AskForPIN> 1 </AskForPIN>
+<SmartPay> 0 </SmartPay>
+<AV> 0 </AV>
+<VsecOverRFEnable> 0 </VsecOverRFEnable>
+<EraseKeyOption> Shared Key </EraseKeyOption>
+<VsecFrequency> 0362 </VsecFrequency>
+<VsecMedium> Antenna </VsecMedium>
+<VsecSymbolRate> 6.900 </VsecSymbolRate>
+<RFCLFrequency> 0706 </RFCLFrequency>
+<RFCLMedium> Antenna </RFCLMedium>
+<RFCLSymbolRate> 6.900 </RFCLSymbolRate>
+<UpgradeMode> RF </UpgradeMode>
+<AutoUpgrade> 1 </AutoUpgrade>
+<InstallationMode> DVBT_DVBC </InstallationMode>
+<CloneMultiRC> Yes </CloneMultiRC>
+</HotelModeSettings>

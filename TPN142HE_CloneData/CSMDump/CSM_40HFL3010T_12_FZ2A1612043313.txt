@@ -1,0 +1,55 @@
+1.1 Set Type:	40HFL3010T/12
+1.2 Production code:	FZ2A1612043313
+1.3 Installation date:	160301
+1.4a Option Code 1:	000 016 067 000 000 000 000 068
+1.4b Option Code 2:	010 002 096 066 010 006 155 000
+1.5 SSB:	705TXFSC40006400SX
+1.6 Display:	750TBV400JP2ABN000
+1.7 PSU:	PLTVEP341XAT4
+2.1 Current Main Software:	TPN142HE_005.002.061.129
+2.2 Development SW Version:	TPN142HE_005.001.204.123
+2.3 Standby SW:	0.11
+2.4 Panel Code:	155
+2.5 Bootloader ID:	NA
+2.6 NVM-version:	V1. 1
+2.7 Flash ID:	0x00000000
+2.8 e-UM version:	20140307
+2.9 Channel Table Structure Version:	2176559
+2.10 Error Codes:	016 000 000 000 000
+3.1 Signal quality:	AVERAGE
+3.2 Child lock:	active
+3.3 HDCP keys:	Y
+3.4 BDS key:	Y
+3.5 CI module:	N
+3.6 CI+ protected service:	Y
+4.1 Current CHTB Identifier:	2026/10/30-16:13
+4.2 Current SSB Identifier:	2026/10/30-16:13
+4.3 WelcomeLogo Identifier:	2026/10/30-16:13
+4.4 SmartInfoImages Identifier:	2026/10/30-16:13
+4.5 SmartInfoPages Identifier:	2026/10/30-16:13
+4.6 Current Mychoice:	OFF
+5.1 SXP Online:	Not Available
+5.2 External Clock Status:	Not Connected
+5.3 Last External Clock Update:	HH:MM:SS
+6.1 Scrambled:	YES
+6.2 Vsecure ID:	80000000000000115d20
+6.4 Room ID:	0000
+6.4 Vsecure generic error:	NoError
+6.5 Vsecure Shared key status:	Absent
+6.6 Vsecure odd key status:	Absent
+6.7 Vsecure even key status:	Absent
+6.8 Vsecure Factory key status:	Present
+7.1 Centre frequency:	314
+7.2 QAM modulation:	QAM256
+7.3 Symbol rate:	6.8750
+7.4 Original network ID:	1
+7.5 Network ID:	22
+7.6 Transport Stream ID:	9
+7.7 Service ID:	912
+7.8 Hierarchical modulation:	Unknow
+7.9 Selected video PID:	4201
+7.10 Selected main audio PID:	4202
+7.11 Selected 2nd audio PID:	4203
+8.1 Last RF Upgrade Session Start Time:	YYYY/MM/DD-HH:MM
+8.2 Last RF Upgrade Session End Time:	YYYY/MM/DD-HH:MM
+8.3 RF Upgrade Status:	Successful
